@@ -2,9 +2,9 @@ IT 202 Project Proposal
 
 Project Name: Simple Bank
 Project Summary: This project will create a bank simulation for users. They’ll be able to have various accounts, do standard bank functions like deposit, withdraw, internal (user’s accounts)/external(other user’s accounts) transfers, and creating/closing accounts.
-- [X]Github Link:https://github.com/Nehapatel4/IT202/tree/Heroku-2021/public_html/milestone1
-- [X]Website Link:https://web.njit.edu/~nmp4/milestone1/home.php
-- [X]Your Name:Neha Patel
+  - Github Link:https://github.com/Nehapatel4/IT202/tree/Heroku-2021/public_html/milestone1
+  - Website Link:https://web.njit.edu/~nmp4/milestone1/home.php
+  - Your Name: Neha Patel
 
 Milestone Features:
        	Milestone 1:
